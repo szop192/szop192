@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name Oleg, i'm frontend developer
+### My name is Oleg, i'm frontend developer
 
 ### My work:
 #### 1. [Healthy Food](https://szop192.github.io/Module02-Shop/dist/)
