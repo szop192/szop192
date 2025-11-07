@@ -8,5 +8,4 @@
 #### 3. [Burger](https://szop192.github.io/Module01-Burger/menu.html)
 
 ###### My [VK](https://vk.com/szopbeats37)
-###### My [INST](https://www.instagram.com/szop_beats)
 ###### You can write me there: ok.jl@mail.ru
