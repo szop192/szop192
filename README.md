@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Zahar, i'm frontend developer
+### My name is Zakhar, i'm frontend developer
 
 ### My work:
 ##### [PORTFOLIO](https://szop192.github.io/Module02-Portfolio/dist/)
