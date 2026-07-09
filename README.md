@@ -1,11 +1,10 @@
 # Hi there 👋
-### My name is Oleg, i'm frontend developer
+### My name is Zahar, i'm frontend developer
 
 ### My work:
 ##### [PORTFOLIO](https://szop192.github.io/Module02-Portfolio/dist/)
 #### 1. [Healthy Food](https://szop192.github.io/Module02-Shop/dist/)
 #### 2. [Fitness](https://szop192.github.io/Module01-Fitness/)
-#### 3. [Burger](https://szop192.github.io/Module01-Burger/menu.html)
+#### 3. [Burger](https://szop192.github.io/Module01-Burger)
 
-###### My [VK](https://vk.com/szopbeats37)
 ###### You can write me there: ok.jl@mail.ru
